@@ -61,3 +61,4 @@ target/
 math_review/.ipynb_checkpoints
 .idea
 **/.ipynb_checkpoints
+styles/base16*.*
